@@ -5,7 +5,13 @@ navbar_entries:
   - title: Game Projects
     url: game_projects
     
+  - title: Prototypes & Demos
+    url: blog 
+    
   - title: Blog
+    url: blog  
+    
+  - title: Contact Me
     url: blog  
 
 project_entries:
