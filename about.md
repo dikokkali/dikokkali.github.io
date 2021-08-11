@@ -3,7 +3,7 @@ layout: post
 title: About
 ---
 
-## Hello
+## Hello!
 
 
   My name is **Dimitris Kokkaliaroglou**, and I'm an independent game developer from Greece. 
