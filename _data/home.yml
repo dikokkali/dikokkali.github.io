@@ -2,7 +2,7 @@ navbar_entries:
   - title: About
     url: about
 
-- title: Projects
+  - title: Game Projects
     url: game_projects
     
   - title: Blog
