@@ -3,6 +3,8 @@ layout: post
 title: About
 ---
 
-This is an example page!
+<h2>Hello,</h2>
 
-Actually, it has the same layout of a post...
+<p>My name is <b>Dimitris Kokkaliaroglou</b>, and I'm an independent game developer from Greece. 
+  While I wear many hats, my main focus is games programming and design using C# and the Unity gamme engine.
+</p>
