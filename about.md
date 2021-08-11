@@ -7,7 +7,7 @@ title: About
 
 <p>
   My name is <b>Dimitris Kokkaliaroglou</b>, and I'm an independent game developer from Greece. 
-  While I wear many hats, my main focus is games programming and design using C# and the Unity game engine.
+  While I wear many hats, my main focus is games programming and design using <b>C#</b> and the <b>Unity</b> game engine.
 </p>
 <p>
   Projects I've worked on include both standalone <i>and</i> jam games <a href="https://dikokkali.github.io/game_projects" target="_blank">here</a>.
