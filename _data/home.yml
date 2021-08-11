@@ -2,8 +2,8 @@ navbar_entries:
   - title: About
     url: about
 
-#- title: Game Projects
- #   url: game_projects
+- title: Projects
+    url: game_projects
     
   - title: Blog
     url: blog  
