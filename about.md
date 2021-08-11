@@ -11,7 +11,7 @@ title: About
 </p>
 <p>
   Projects I've worked on include both standalone <i>and</i> jam games <a href="https://dikokkali.github.io/game_projects" target="_blank">here</a>.
-  Occasionally, <a href="https://dikokkali.github.io/game_projects" target="_blank">I dabble with proof-of-concept mechanics or recreations from other games</a> 
+  Occasionally, I dabble with <a href="https://dikokkali.github.io/game_projects" target="_blank">proof-of-concept mechanics</a> or recreations from other games
   to sharpen my skills -- or simply for fun.
 </p>
 <p>
