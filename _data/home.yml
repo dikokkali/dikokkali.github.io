@@ -1,12 +1,18 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
-    url: blog
-
-  - title: website
-    url: https://www.abhinav.co
+  - title: Game Projects
+    url: game_projects
+    
+  - title: Prototypes & Demos
+    url: blog 
+    
+  - title: Blog
+    url: blog  
+    
+  - title: Contact Me
+    url: blog  
 
 project_entries:
   - title: Project 1
